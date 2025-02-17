@@ -1,0 +1,1 @@
+SELECT * FROM parks_and_recreation.employee_demographics WHERE(first_name ='Leslie' AND age = 44) OR age < 44;
