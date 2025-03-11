@@ -2,7 +2,7 @@
 
 SELECT LENGTH('RIKESH');
 
-SELECT first_name, Length(first_name) FROM parks_and_recreation.employee_demographics order by 2 ;
+SELECT first_name, Length(first_name) as LENGTH FROM parks_and_recreation.employee_demographics order by 2 ;
 
 -- upper and lower
 
