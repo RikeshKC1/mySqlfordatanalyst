@@ -52,7 +52,7 @@ select * from parks_and_recreation.employee_demographics order by gender desc;
 
 -- limit
 select * from parks_and_recreation.employee_demographics order by gender desc limit 4;
-
+s
 select * from parks_and_recreation.employee_salary order by salary desc limit 2;
 
 
